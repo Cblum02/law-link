@@ -1,0 +1,8 @@
+{
+  "name": "lawLink",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "ba1bda61"
+}
